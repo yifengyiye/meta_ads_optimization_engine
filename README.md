@@ -144,7 +144,10 @@ meta_optimization_engine/
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](./LICENSE) 文件。
 
+<<<<<<< HEAD
 ## 📞 联系方式
 
 - 项目主页：https://github.com/meta-optimization-engine/meta-optimization-engine
 - 问题反馈：https://github.com/meta-optimization-engine/meta-optimization-engine/issues
+=======
+>>>>>>> c21eb0a30c001a4cfa17bff2d48402ce39e27448
