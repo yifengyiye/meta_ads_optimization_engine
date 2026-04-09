@@ -102,7 +102,7 @@ python scripts/batch_validation.py
 ## 📁 项目结构
 
 ```text
-meta_optimization_engine/
+meta_ads_optimization_engine/
 ├── app/                     # 主应用目录
 │   ├── config.py           # 配置管理
 │   ├── main.py             # FastAPI 应用入口
